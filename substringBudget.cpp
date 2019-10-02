@@ -1,5 +1,6 @@
 /*
 https://leetcode.com/contest/weekly-contest-156/problems/get-equal-substrings-within-budget/
+if that doesn't work try: https://leetcode.com/problems/get-equal-substrings-within-budget/
 description found above
 two solutions, brute force (n^2) or sliding window o(n);
 */
